@@ -29,7 +29,21 @@ schools and shopping malls they are used this
 ![swot](https://user-images.githubusercontent.com/98829237/154809684-b91f2656-67a1-47f8-b83a-97014af517b6.jpg)
 
 
-
+# High Level Requirements
+|HLR|     Description  |
+|------|  --------------|
+|HLR_1|   it work when fire detected.
+|HLR_2|   buzzer will strat work whenfire is detects .
+|HLR_3|   we need to reset buzzer after work done.
+|HLR_4|   fire alarm  need to work perfectly .
+            
+# Low Level Requirements
+|LLR|     Description |
+|------|  ------------|
+|LLR_1|   fire sensor is needed.
+|LLR_2|   buzzer is need and connects to microcontroller.
+|LLR_3|   reset button is need to install.
+|LLR_4|   microcontroller need to install.
 
 
 ## components used in fire alarm
