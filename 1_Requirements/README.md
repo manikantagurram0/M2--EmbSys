@@ -26,10 +26,13 @@ schools and shopping malls they are used this
 * Fire alarm is independent device it not dependent on external user it work on micro controller
 
 
+![swot](https://user-images.githubusercontent.com/98829237/154809684-b91f2656-67a1-47f8-b83a-97014af517b6.jpg)
 
 
 
-### components used in fire alarm
+
+
+## components used in fire alarm
 
 ### power supply
  * it is used give power supply to circuit
