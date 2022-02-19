@@ -23,7 +23,7 @@ schools and shopping malls etc..
 schools and shopping malls they are used this
 
 ### How
-* 
+* Fire alarm is independent device it not dependent on external user it work on micro controller
 
 
 
@@ -31,22 +31,25 @@ schools and shopping malls they are used this
 
 ### components used in fire alarm
 
-#### power supply
+### power supply
  * it is used give power supply to circuit
 
-#### Servo motor (sg90)
+### Servo motor (sg90)
  * it have connected with fire sensor it rotate acording to temparature pressure 
 
-#### ATMEGA8
+### ATMEGA8
  * it is used to control the all circuit and send commands and operate buzzer
 
-#### BUZZER
+### BUZZER
  * Buzzer is used to make sound and it a output to the circuit
 
-#### Button
+### Button
  * it is used to set and reset buzzer
+ 
+ 
+ 
 
- * 10KΩ resistor, 1KΩ resistor, 220Ω resistor, 100nF capacitor.
+ ##### 10KΩ resistor, 1KΩ resistor, 220Ω resistor, 100nF capacitor.
 
 
 
