@@ -48,7 +48,7 @@ schools and shopping malls they are used this
 
 
 
-![draw](https://user-images.githubusercontent.com/98829237/154810337-d7677b9d-dbc9-48d3-961e-68386aecc4d2.png)
+![draw](https://user-images.githubusercontent.com/98829237/154810462-d61a4e29-ee06-4c74-bcf1-7e79af0a82ea.png)
 
 ## components used in fire alarm
 
