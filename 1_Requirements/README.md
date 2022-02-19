@@ -46,6 +46,10 @@ schools and shopping malls they are used this
 |LLR_4|   microcontroller need to install.
 
 
+
+
+![draw](https://user-images.githubusercontent.com/98829237/154810337-d7677b9d-dbc9-48d3-961e-68386aecc4d2.png)
+
 ## components used in fire alarm
 
 ### power supply
