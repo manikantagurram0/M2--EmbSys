@@ -5,7 +5,29 @@ microcontroller then buzzer rings after that we reset the buzzer using and fire 
 schools and shopping malls etc..
 
 
-# 4W'S AND 1H
+## 4W'S AND 1H
+
+### Where
+ * Fire alarm system is use this in real time environments like hospitals
+schools and shopping malls etc..
+
+### When
+* Fire alarm is activated when it temperature level exceed to normal level it buzzer is activated
+* buzzer is activated throught micro controller atmega8
+
+### What
+* fire alarm system using microcontroller Atmega8 and fire sensor, here fire sensor play a vital role
+
+### Who 
+*  Fire alarm system is use this in real time environments like hospitals
+schools and shopping malls they are used this
+
+### How
+* 
+
+
+
+
 
 ### components used in fire alarm
 
@@ -24,6 +46,8 @@ schools and shopping malls etc..
 #### Button
  * it is used to set and reset buzzer
 
-10KΩ resistor, 1KΩ resistor, 220Ω resistor, 100nF capacitor.
+ * 10KΩ resistor, 1KΩ resistor, 220Ω resistor, 100nF capacitor.
+
+
 
 
