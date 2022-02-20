@@ -42,12 +42,17 @@ schools and shopping malls they are used this
 # Low Level Requirements
 |ID|     Low Level Requirements for HL1 |  |ID|       Low Level Requirements for HL2 |
 |------|  ------------|--|---|   ----------------|
+|H1L1|   fire sensor is needed.|  |H2L1|     buzzer should connect to microcontroller.            
+|H1L2|  Then  buzzer is operated.|  |H2L2|   buzzer is connects to servo motor.
+
+
+|ID|     Low Level Requirements for HL3 |  |ID|       Low Level Requirements for HL4 |
+|------|  ------------|--|---|   ----------------|
 |LLR_1|   fire sensor is needed.|  |LLR_1|     buzzer should connect to microcontroller.            
 |LLR_2|  Then  buzzer is operated.|  |LLR_2|   buzzer is connects to servo motor.
 
 
-|LLR_3|   reset button is need to install.|  |    |                   
-|LLR_4|   microcontroller need to install.|  |
+
 
 
 
