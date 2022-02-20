@@ -42,11 +42,11 @@ schools and shopping malls they are used this
 # Low Level Requirements
 |LLR|     Low Level Requirements for HL1 |  |LLR|       Low Level Requirements for HL2 |
 |------|  ------------|--|---|   ----------------|
-|LLR_1|   fire sensor is needed.|  |                    
-|LLR_2|   buzzer is need and connects to microcontroller.|  | buzzer is need and connects to microcontroller.   
+|LLR_1|   fire sensor is needed.|  |    |                
+|LLR_2|   buzzer is need and connects to microcontroller.|  |    |
 
 
-|LLR_3|   reset button is need to install.|  |                       
+|LLR_3|   reset button is need to install.|  |    |                   
 |LLR_4|   microcontroller need to install.|  |
 
 
