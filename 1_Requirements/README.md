@@ -40,12 +40,12 @@ schools and shopping malls they are used this
 |HLR_4|   fire alarm  need to work perfectly .
             
 # Low Level Requirements
-|LLR|     Description |
-|------|  ------------|
-|LLR_1|   fire sensor is needed.
-|LLR_2|   buzzer is need and connects to microcontroller.
-|LLR_3|   reset button is need to install.
-|LLR_4|   microcontroller need to install.
+|LLR|     Description |  |LLR|   Low Level Requirements |
+|------|  ------------|--|---|   -----------------------|
+|LLR_1|   fire sensor is needed.|  |                    
+|LLR_2|   buzzer is need and connects to microcontroller.|  |              
+|LLR_3|   reset button is need to install.|  |                       
+|LLR_4|   microcontroller need to install.|  |
 
 
 
