@@ -1,3 +1,4 @@
+                                                   # Fire Alarm System 
 # Introduction
 I am going to make a fire alarm system using microcontroller Atmega8 and fire sensor, here fire sensor play a vital role we have different types of fire alarms
 we can use any one with respect to your project here i am using LM35 a temperature sensor when temperature level exceed the actual level fire sensor sent signal to
