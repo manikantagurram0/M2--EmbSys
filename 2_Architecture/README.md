@@ -1,8 +1,7 @@
 
-![draw](https://user-images.githubusercontent.com/98829237/154841410-87f41a63-7a2e-4e5b-b862-3fcae2318fe7.png)
 
 
-
+![draw](https://user-images.githubusercontent.com/98829237/154841779-da2af976-0328-4623-9cd5-789a9e0bdaa2.png)
 
 ## components used in fire alarm
 
