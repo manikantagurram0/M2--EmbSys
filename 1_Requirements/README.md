@@ -37,10 +37,9 @@ schools and shopping malls they are used this
 |HLR_1|   it work when fire detected.
 |HLR_2|   buzzer will strat work when fire is detects .
 |HLR_3|   we need to reset buzzer after work done.
-|HLR_4|   fire alarm  need to work perfectly .
-            
+|HLR_4|   fire alarm  need to work perfectl .
+#            
 # Low Level Requirements
-#
 |ID|     Low Level Requirements for HL1 |  |ID|       Low Level Requirements for HL2 |
 |------|  ------------|--|---|   ----------------|
 |H1L1|   fire sensor is needed.|  |H2L1|     buzzer should connect to microcontroller.            
@@ -49,8 +48,8 @@ schools and shopping malls they are used this
 #
 |ID|     Low Level Requirements for HL3 |  |ID|       Low Level Requirements for HL4 |
 |------|  ------------|--|---|   ----------------|
-|LLR_1|   fire sensor is needed.|  |LLR_1|     buzzer should connect to microcontroller.            
-|LLR_2|  Then  buzzer is operated.|  |LLR_2|   buzzer is connects to servo motor.
+|H3L1|   buzzer is need to reset manually.|  |H4L1|     microcontroller is need to install perfectly .            
+|H3L1|  so reset butoon is needed.|  |H4L1|   program the microcontroller to perform operation.
 
 
 
