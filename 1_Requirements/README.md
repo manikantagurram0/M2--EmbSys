@@ -6,7 +6,7 @@ we can use any one with respect to your project here i am using LM35 a temperatu
 microcontroller then buzzer rings after that we reset the buzzer using and fire sensor using reset button, we can use this in real time environments like hospitals
 schools and shopping malls etc..
 
-
+![887414WH1](https://user-images.githubusercontent.com/98829237/154836788-82480a46-016d-41d0-9fd2-f9cb3d78307d.png)
 ## 4W'S AND 1H
 
 ### Where
