@@ -30,7 +30,7 @@ schools and shopping malls they are used this
 
 ![swot](https://user-images.githubusercontent.com/98829237/154809684-b91f2656-67a1-47f8-b83a-97014af517b6.jpg)
 
-
+#
 # High Level Requirements
 |HLR|     Description  |
 |------|  --------------|
@@ -40,12 +40,13 @@ schools and shopping malls they are used this
 |HLR_4|   fire alarm  need to work perfectly .
             
 # Low Level Requirements
+#
 |ID|     Low Level Requirements for HL1 |  |ID|       Low Level Requirements for HL2 |
 |------|  ------------|--|---|   ----------------|
 |H1L1|   fire sensor is needed.|  |H2L1|     buzzer should connect to microcontroller.            
 |H1L2|  Then  buzzer is operated.|  |H2L2|   buzzer is connects to servo motor.
 
-
+#
 |ID|     Low Level Requirements for HL3 |  |ID|       Low Level Requirements for HL4 |
 |------|  ------------|--|---|   ----------------|
 |LLR_1|   fire sensor is needed.|  |LLR_1|     buzzer should connect to microcontroller.            
