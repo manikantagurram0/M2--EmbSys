@@ -1,4 +1,6 @@
-# Introduction
+                                                   # Fire Alarm System 
+# Fire Alarm System 
+## Introduction
 I am going to make a fire alarm system using microcontroller Atmega8 and fire sensor, here fire sensor play a vital role we have different types of fire alarms
 we can use any one with respect to your project here i am using LM35 a temperature sensor when temperature level exceed the actual level fire sensor sent signal to
 microcontroller then buzzer rings after that we reset the buzzer using and fire sensor using reset button, we can use this in real time environments like hospitals
@@ -6,7 +8,7 @@ schools and shopping malls etc..
 
 
 ## 4W'S AND 1H
-
+![887414WH1](https://user-images.githubusercontent.com/98829237/154836788-82480a46-016d-41d0-9fd2-f9cb3d78307d.png)
 ### Where
  * Fire alarm system is use this in real time environments like hospitals
 schools and shopping malls etc..
@@ -28,22 +30,29 @@ schools and shopping malls they are used this
 
 ![swot](https://user-images.githubusercontent.com/98829237/154809684-b91f2656-67a1-47f8-b83a-97014af517b6.jpg)
 
-
+#
 # High Level Requirements
 |HLR|     Description  |
 |------|  --------------|
 |HLR_1|   it work when fire detected.
-|HLR_2|   buzzer will strat work whenfire is detects .
+|HLR_2|   buzzer will strat work when fire is detects .
 |HLR_3|   we need to reset buzzer after work done.
-|HLR_4|   fire alarm  need to work perfectly .
-            
+|HLR_4|   fire alarm  need to work perfectl .
+#            
 # Low Level Requirements
-|LLR|     Description |
-|------|  ------------|
-|LLR_1|   fire sensor is needed.
-|LLR_2|   buzzer is need and connects to microcontroller.
-|LLR_3|   reset button is need to install.
-|LLR_4|   microcontroller need to install.
+|ID|     Low Level Requirements for HL1 |  |ID|       Low Level Requirements for HL2 |
+|------|  ------------|--|---|   ----------------|
+|H1L1|   fire sensor is needed.|  |H2L1|     buzzer should connect to microcontroller.            
+|H1L2|  Then  buzzer is operated.|  |H2L2|   buzzer is connects to servo motor.
+
+#
+|ID|     Low Level Requirements for HL3 |  |ID|       Low Level Requirements for HL4 |
+|------|  ------------|--|---|   ----------------|
+|H3L1|   buzzer is need to reset manually.|  |H4L1|     microcontroller is need to install perfectly .            
+|H3L1|  so reset butoon is needed.|  |H4L1|   program the microcontroller to perform operation.
+
+
+
 
 
 
