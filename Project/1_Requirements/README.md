@@ -1,10 +1,11 @@
                                                    # Fire Alarm System 
 # Fire Alarm System 
 ## Introduction
-I am going to make a fire alarm system using microcontroller Atmega8 and fire sensor, here fire sensor play a vital role we have different types of fire alarms
+In this project, we are going to create a fire alert system using ATMEGA8 microcontroller and fire sensor. Fire sensors can be of any type, here fire sensor play a vital role we have different types of fire alarms
 we can use any one with respect to your project here i am using LM35 a temperature sensor when temperature level exceed the actual level fire sensor sent signal to
-microcontroller then buzzer rings after that we reset the buzzer using and fire sensor using reset button, we can use this in real time environments like hospitals
-schools and shopping malls etc..
+microcontroller then buzzer rings after that we reset the buzzer using and fire sensor using reset button, we can use this in real time environments like hospitals schools and shopping malls etc..
+we are going to install the fire sensor on the servo motor. The survey will rotate the 180 degree pendulum. With the fire sensor mounted on it, we get 270+ degree fire sensing vision. The survey will continue to rotate, thus providing a complete room fire alert system. We can add smoke sensors to the system for more accuracy. With it we can achieve high accuracy.
+
 
 
 ## 4W'S AND 1H
@@ -34,22 +35,22 @@ schools and shopping malls they are used this
 # High Level Requirements
 |HLR|     Description  |
 |------|  --------------|
-|HLR_1|   it work when fire detected.
-|HLR_2|   buzzer will strat work when fire is detects .
-|HLR_3|   we need to reset buzzer after work done.
-|HLR_4|   fire alarm  need to work perfectl .
+|HLR_1|   it shall be sense the fire.
+|HLR_2|   it shall be make sound when fire senses .
+|HLR_3|   it shall have reset button to reset buzzer.
+|HLR_4|   it shall have ADC to sense analog signals.
 #            
 # Low Level Requirements
 |ID|     Low Level Requirements for HL1 |  |ID|       Low Level Requirements for HL2 |
 |------|  ------------|--|---|   ----------------|
-|H1L1|   fire sensor is needed.|  |H2L1|     buzzer should connect to microcontroller.            
-|H1L2|  Then  buzzer is operated.|  |H2L2|   buzzer is connects to servo motor.
+|LLR1|  it shall have fire sensor.|  |LLR1|     it shall have a buzzer to connect.            
+|LLR2|  it shall have ADC.|  |LLR2|   it shall have a sensor to connect.
 
 #
 |ID|     Low Level Requirements for HL3 |  |ID|       Low Level Requirements for HL4 |
 |------|  ------------|--|---|   ----------------|
-|H3L1|   buzzer is need to reset manually.|  |H4L1|     microcontroller is need to install perfectly .            
-|H3L1|  so reset butoon is needed.|  |H4L1|   program the microcontroller to perform operation.
+|LLR1|   we shall reset button manually .|  |H4L1|     It shall have interrupt .            
+|LLR2|  Reset button is connect buzzer.|  |LLR2|   it shall have a ADC, to covert signals .
 
 
 
