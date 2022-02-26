@@ -1,4 +1,5 @@
                                                    # Fire Alarm System 
+
 # Fire Alarm System 
 ## Introduction
 In this project, we are going to create a fire alert system using ATMEGA8 microcontroller and fire sensor. Fire sensors can be of any type, here fire sensor play a vital role we have different types of fire alarms
