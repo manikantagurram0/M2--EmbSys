@@ -1,4 +1,4 @@
-                                                   # Fire Alarm System 
+# CASE STUDY 1                                                   # Fire Alarm System 
 M2-EmbSys
 
 # Fire Alarm System 
