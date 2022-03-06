@@ -33,8 +33,9 @@
 ### LCD Display
 ![Display of draw](https://user-images.githubusercontent.com/98829237/156932601-cbd38f47-9ace-477f-9da5-522005d92881.png)
 *  LCD (Liquid Crystal Display) is a type of display that uses liquid crystal for its operation. Here, we will accept the serial input from the computer and upload the sketch to Arduino. The characters will be displayed on the LCD.
-
+#
 ### Servo motor 
+![servo of draw](https://user-images.githubusercontent.com/98829237/156932678-7b994107-b7b1-4f21-8a3e-7f45eeded163.png)
  * it have connected with fire resistor in my project i used this as room lock and unlock feture of emegency door in this ewhen temperature exceed the limit then doors are automatically unlock using micro controller Servo motors are a type of motors whose output shaft can be moved to a specific angular position by sending a coded signal. The servo motor will maintain the position of the shaft as long as you keep applying coded signals. When you change the coded signal, the angular position of the shaft will change.
 Provides a common type of survey position control. Servos in nature are usually electric or partially electronic, using an electric motor as the primary means of generating mechanical power. Other types of servos use hydraulics, pneumatics, or magnetic principles.
 
