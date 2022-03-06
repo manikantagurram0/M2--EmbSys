@@ -47,9 +47,11 @@ Provides a common type of survey position control. Servos in nature are usually 
 ![uml diagram (1)](https://user-images.githubusercontent.com/98829237/156934392-3fd746a7-50a7-4820-a6fa-e8a523f86cee.png)
 
 #
+### Flow chart
 ![flowchart (2)](https://user-images.githubusercontent.com/98829237/156927005-73d2a261-c01e-406d-bf6f-fd987e6f0bcb.png)
 
- ##
+ #
+ ### Subsystem level Diagram
 ![draw](https://user-images.githubusercontent.com/98829237/154841779-da2af976-0328-4623-9cd5-789a9e0bdaa2.png)
 
 
