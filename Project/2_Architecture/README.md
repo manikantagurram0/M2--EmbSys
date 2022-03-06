@@ -31,6 +31,7 @@
 * It shall turn the led red which indicates red and it alert people to move some safe place which away from the fire zone
 #
 ### LCD Display
+![Display of draw](https://user-images.githubusercontent.com/98829237/156932601-cbd38f47-9ace-477f-9da5-522005d92881.png)
 *  LCD (Liquid Crystal Display) is a type of display that uses liquid crystal for its operation. Here, we will accept the serial input from the computer and upload the sketch to Arduino. The characters will be displayed on the LCD.
 
 ### Servo motor 
