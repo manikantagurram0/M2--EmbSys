@@ -1,7 +1,7 @@
 
+![draw](https://user-images.githubusercontent.com/98829237/156922691-f06d3071-48d1-4384-841f-d8b01ca31d5e.png)
 
 
-![draw](https://user-images.githubusercontent.com/98829237/154841779-da2af976-0328-4623-9cd5-789a9e0bdaa2.png)
 
 ## components used in fire alarm
 
@@ -20,7 +20,7 @@
 ### Button
  * it is used to set and reset buzzer
  
- 
- ![draw](https://user-images.githubusercontent.com/98829237/154831431-e77fda5c-174f-4a5f-9507-9c52ca9e0ff4.png)
+![draw](https://user-images.githubusercontent.com/98829237/154841779-da2af976-0328-4623-9cd5-789a9e0bdaa2.png)
+
 
  ##### 10KΩ resistor, 1KΩ resistor, 220Ω resistor, 100nF capacitor.
