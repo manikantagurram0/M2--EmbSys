@@ -4,7 +4,8 @@
 
 
 ## Components Used In Fire Alarm
-### Fire sensor(i used potentiometer in place of fire sensor due to unavailability)
+#
+### Fire sensor (i used potentiometer in place of fire sensor due to unavailability)
  * A potentiometer is an instrument used to measure voltage or electrical potential. This provides a variable resistance when the device shaft is twisted. Here, we will measure the amount of resistance as the analog value produced by the potentiometer.
 
 
