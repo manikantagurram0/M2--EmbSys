@@ -42,7 +42,11 @@ Provides a common type of survey position control. Servos in nature are usually 
 ### power supply
 ![Power supply of draw](https://user-images.githubusercontent.com/98829237/156932822-3fd83541-0a7a-4ee2-a1f7-83743582da8f.png)
  * Her i used a 5v power supply it is connected with peripherals
-##
+#
+### Behavioral Diagram
+![uml diagram (1)](https://user-images.githubusercontent.com/98829237/156934392-3fd746a7-50a7-4820-a6fa-e8a523f86cee.png)
+
+#
 ![flowchart (2)](https://user-images.githubusercontent.com/98829237/156927005-73d2a261-c01e-406d-bf6f-fd987e6f0bcb.png)
 
  ##
