@@ -25,8 +25,11 @@
 ### Button
 ![button of draw](https://user-images.githubusercontent.com/98829237/156932325-437d1490-b459-4102-aee7-34b022e86859.png)
  * it is used to reset buzzer when we need to swith off buzzer after emergency team arrived so we need switch to reset led, buzzer,lcd display and servo motor
+#
 ### LED
+![LED of draw](https://user-images.githubusercontent.com/98829237/156932472-5da5ff25-9c40-4e42-aa05-fd817520d339.png)
 * It shall turn the led red which indicates red and it alert people to move some safe place which away from the fire zone
+#
 ### LCD Display
 *  LCD (Liquid Crystal Display) is a type of display that uses liquid crystal for its operation. Here, we will accept the serial input from the computer and upload the sketch to Arduino. The characters will be displayed on the LCD.
 
