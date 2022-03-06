@@ -3,7 +3,7 @@
 
 
 
-## components used in fire alarm
+## Components Used In Fire Alarm
 ### Fire sensor(i used potentiometer in place of fire sensor due to unavailability)
  * A potentiometer is an instrument used to measure voltage or electrical potential. This provides a variable resistance when the device shaft is twisted. Here, we will measure the amount of resistance as the analog value produced by the potentiometer.
 
@@ -12,7 +12,6 @@
 
 ### Servo motor (sg90)
  * it have connected with fire resistor in my project i used this as room lock and unlock feture of emegency door in this ewhen temperature exceed the limit then doors are automatically unlock using micro controller Servo motors are a type of motors whose output shaft can be moved to a specific angular position by sending a coded signal. The servo motor will maintain the position of the shaft as long as you keep applying coded signals. When you change the coded signal, the angular position of the shaft will change.
-
 Provides a common type of survey position control. Servos in nature are usually electric or partially electronic, using an electric motor as the primary means of generating mechanical power. Other types of servos use hydraulics, pneumatics, or magnetic principles.
 
 ### ATMEGA328
