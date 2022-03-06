@@ -5,14 +5,16 @@
 
 ## Components Used In Fire Alarm
 #
-![Copy of Copy of draw](https://user-images.githubusercontent.com/98829237/156931658-2bf89966-4d7e-4dfb-9cf8-989e12957f8f.png)
+
 
 ### Fire sensor (i used potentiometer in place of fire sensor due to unavailability)
+![Copy of Copy of draw](https://user-images.githubusercontent.com/98829237/156931658-2bf89966-4d7e-4dfb-9cf8-989e12957f8f.png)
  * A potentiometer is an instrument used to measure voltage or electrical potential. This provides a variable resistance when the device shaft is twisted. Here, we will measure the amount of resistance as the analog value produced by the potentiometer.
 
 
-
+#
 ### ATMEGA328
+![micro of draw](https://user-images.githubusercontent.com/98829237/156931814-e775e895-1acb-410a-9b7b-1a994672c6ce.png)
  * it is used to control the all circuit and send commands and operate buzzer basically when temperature or some sensor senses analog input it send to micro
  controller then it alert the buzzer, LED, Lcd Display     
 
