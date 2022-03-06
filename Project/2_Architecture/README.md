@@ -21,8 +21,9 @@
 ### BUZZER
 ![buzzer w](https://user-images.githubusercontent.com/98829237/156932118-d3fb98e8-9e5c-44c1-94b1-cdc69596ea2c.png)
  * Buzzer is used to make sound and it a output to the circuit when micro controller send output signal then buzzer start sound anlong with led turn on
-
+#
 ### Button
+![button of draw](https://user-images.githubusercontent.com/98829237/156932325-437d1490-b459-4102-aee7-34b022e86859.png)
  * it is used to reset buzzer when we need to swith off buzzer after emergency team arrived so we need switch to reset led, buzzer,lcd display and servo motor
 ### LED
 * It shall turn the led red which indicates red and it alert people to move some safe place which away from the fire zone
