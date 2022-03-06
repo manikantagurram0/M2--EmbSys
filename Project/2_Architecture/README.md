@@ -17,8 +17,9 @@
 ![micro of draw](https://user-images.githubusercontent.com/98829237/156931814-e775e895-1acb-410a-9b7b-1a994672c6ce.png)
  * it is used to control the all circuit and send commands and operate buzzer basically when temperature or some sensor senses analog input it send to micro
  controller then it alert the buzzer, LED, Lcd Display     
-
+#
 ### BUZZER
+![buzzer w](https://user-images.githubusercontent.com/98829237/156932118-d3fb98e8-9e5c-44c1-94b1-cdc69596ea2c.png)
  * Buzzer is used to make sound and it a output to the circuit when micro controller send output signal then buzzer start sound anlong with led turn on
 
 ### Button
