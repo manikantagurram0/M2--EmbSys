@@ -7,12 +7,7 @@
 ### Fire sensor(i used potentiometer in place of fire sensor due to unavailability)
  * A potentiometer is an instrument used to measure voltage or electrical potential. This provides a variable resistance when the device shaft is twisted. Here, we will measure the amount of resistance as the analog value produced by the potentiometer.
 
-### power supply
- * Her i used a 5v power supply it is connected with peripherals
 
-### Servo motor (sg90)
- * it have connected with fire resistor in my project i used this as room lock and unlock feture of emegency door in this ewhen temperature exceed the limit then doors are automatically unlock using micro controller Servo motors are a type of motors whose output shaft can be moved to a specific angular position by sending a coded signal. The servo motor will maintain the position of the shaft as long as you keep applying coded signals. When you change the coded signal, the angular position of the shaft will change.
-Provides a common type of survey position control. Servos in nature are usually electric or partially electronic, using an electric motor as the primary means of generating mechanical power. Other types of servos use hydraulics, pneumatics, or magnetic principles.
 
 ### ATMEGA328
  * it is used to control the all circuit and send commands and operate buzzer basically when temperature or some sensor senses analog input it send to micro
@@ -27,6 +22,13 @@ Provides a common type of survey position control. Servos in nature are usually 
 * It shall turn the led red which indicates red and it alert people to move some safe place which away from the fire zone
 ### LCD Display
 *  LCD (Liquid Crystal Display) is a type of display that uses liquid crystal for its operation. Here, we will accept the serial input from the computer and upload the sketch to Arduino. The characters will be displayed on the LCD.
+
+### Servo motor 
+ * it have connected with fire resistor in my project i used this as room lock and unlock feture of emegency door in this ewhen temperature exceed the limit then doors are automatically unlock using micro controller Servo motors are a type of motors whose output shaft can be moved to a specific angular position by sending a coded signal. The servo motor will maintain the position of the shaft as long as you keep applying coded signals. When you change the coded signal, the angular position of the shaft will change.
+Provides a common type of survey position control. Servos in nature are usually electric or partially electronic, using an electric motor as the primary means of generating mechanical power. Other types of servos use hydraulics, pneumatics, or magnetic principles.
+
+### power supply
+ * Her i used a 5v power supply it is connected with peripherals
  
 ![draw](https://user-images.githubusercontent.com/98829237/154841779-da2af976-0328-4623-9cd5-789a9e0bdaa2.png)
 
